@@ -1,1 +1,2 @@
 # API-quiz3
+mocemuli api gaxlavt ufro metad kalatburtis, kerdzod, NBA-is moyvarultatvis(chemnairi xalxistvis). proeqtshi json formati saxit nachvenebia yvela is motamashe, romlebic zemot agnishnul ligashi taamshoben da matze sxvadasxva informacia, magalitad, misi wona, saxeli, gvari, gundi sadac tamashobs da a.sh. xolo tviton kodshi agwerilia yvela is gundi, romelic asparezobs NBA-shi da nachvenebia listis saxit, xolo shemdgomshi bazis saxit
